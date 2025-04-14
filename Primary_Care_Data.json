@@ -1,0 +1,491 @@
+[
+    {
+        "type": "Fraser Health Authority",
+        "pharmacies": [
+            {
+                "Pharm": "Vincent Yu",
+                "Lic #": 8183.0,
+                "FTE": 1.0,
+                "Location": "Burnaby",
+                "Status": "Active",
+                "Label": "FH"
+            },
+            {
+                "Pharm": "David Massaro",
+                "Lic #": 10494.0,
+                "FTE": 1.0,
+                "Location": "Maple Ridge",
+                "Status": "Active",
+                "Label": "FH"
+            },
+            {
+                "Pharm": "Christopher Goryniuk",
+                "Lic #": 10545.0,
+                "FTE": 1.0,
+                "Location": "Langley",
+                "Status": "Active",
+                "Label": "FH"
+            },
+            {
+                "Pharm": "Jacqueline Ming",
+                "Lic #": 11470.0,
+                "FTE": 1.0,
+                "Location": "Chilliwack",
+                "Status": "Active",
+                "Label": "FH"
+            },
+            {
+                "Pharm": "June Cho",
+                "Lic #": 11525.0,
+                "FTE": 1.0,
+                "Location": "Burnaby",
+                "Status": "Active",
+                "Label": "FH"
+            },
+            {
+                "Pharm": "Tamer Eid",
+                "Lic #": 11599.0,
+                "FTE": 0.42,
+                "Location": "Chilliwack",
+                "Status": "Active",
+                "Label": "FH"
+            },
+            {
+                "Pharm": "Charles Au",
+                "Lic #": 12013.0,
+                "FTE": 0.3,
+                "Location": "Surrey",
+                "Status": "Active",
+                "Label": "FH"
+            },
+            {
+                "Pharm": "Michael Chan",
+                "Lic #": 12556.0,
+                "FTE": 1.0,
+                "Location": "Burnaby",
+                "Status": "Active",
+                "Label": "FH"
+            },
+            {
+                "Pharm": "Kenneth Lee",
+                "Lic #": 12595.0,
+                "FTE": 1.0,
+                "Location": "Maple Ridge",
+                "Status": "Active",
+                "Label": "FH"
+            },
+            {
+                "Pharm": "Rince Wong",
+                "Lic #": 12607.0,
+                "FTE": 1.0,
+                "Location": "Coquitlam",
+                "Status": "Active",
+                "Label": "FH"
+            },
+            {
+                "Pharm": "Sarah Lee",
+                "Lic #": 13434.0,
+                "FTE": 1.0,
+                "Location": "Burnaby ",
+                "Status": "Active",
+                "Label": "FH"
+            },
+            {
+                "Pharm": "Anita Ho",
+                "Lic #": 14344.0,
+                "FTE": 1.0,
+                "Location": "Surrey",
+                "Status": "Active",
+                "Label": "FH"
+            },
+            {
+                "Pharm": "Andrew Cobleigh",
+                "Lic #": 14454.0,
+                "FTE": 1.0,
+                "Location": "Mission",
+                "Status": "Active",
+                "Label": "FH"
+            },
+            {
+                "Pharm": "Adam Mah",
+                "Lic #": 15577.0,
+                "FTE": 1.0,
+                "Location": "Chilliwack",
+                "Status": "Active",
+                "Label": "FH"
+            },
+            {
+                "Pharm": "Alex Assumption",
+                "Lic #": 16744.0,
+                "FTE": 1.0,
+                "Location": "Abbotsford",
+                "Status": "Active",
+                "Label": "FH"
+            },
+            {
+                "Pharm": "Wendy Tacuba Chavelas",
+                "Lic #": 16839.0,
+                "FTE": 1.0,
+                "Location": "White Rock",
+                "Status": "Active",
+                "Label": "FH"
+            },
+            {
+                "Pharm": "Daniel Liu",
+                "Lic #": 17525.0,
+                "FTE": 1.0,
+                "Location": "Surrey ",
+                "Status": "Active",
+                "Label": "FH"
+            }
+        ]
+    },
+    {
+        "type": "Interior Health Authority",
+        "pharmacies": [
+            {
+                "Pharm": "Chris Dreyer",
+                "Lic #": 7005.0,
+                "FTE": 0.2,
+                "Location": "Lytton",
+                "Status": "Active",
+                "Label": "IH"
+            },
+            {
+                "Pharm": "Cameron Bonell ",
+                "Lic #": 7102.0,
+                "FTE": 1.0,
+                "Location": "West Kelowna",
+                "Status": "Active",
+                "Label": "IH"
+            },
+            {
+                "Pharm": "Cara Hills",
+                "Lic #": 8309.0,
+                "FTE": 1.0,
+                "Location": "Kelowna",
+                "Status": "Active",
+                "Label": "IH"
+            },
+            {
+                "Pharm": "Nadheen Murray ",
+                "Lic #": 9875.0,
+                "FTE": 1.0,
+                "Location": "Williams Lake",
+                "Status": "Active",
+                "Label": "IH"
+            },
+            {
+                "Pharm": "Morgan Flynn",
+                "Lic #": 10503.0,
+                "FTE": 1.0,
+                "Location": "Kelowna",
+                "Status": "Active",
+                "Label": "IH"
+            },
+            {
+                "Pharm": "Daniel Meyer ",
+                "Lic #": 12534.0,
+                "FTE": 1.0,
+                "Location": "Vernon",
+                "Status": "Active",
+                "Label": "IH"
+            },
+            {
+                "Pharm": "Shelley Jun",
+                "Lic #": 16034.0,
+                "FTE": 1.0,
+                "Location": "Penticton",
+                "Status": "Active",
+                "Label": "IH"
+            },
+            {
+                "Pharm": "Annick Sevigny",
+                "Lic #": 16543.0,
+                "FTE": 1.0,
+                "Location": "Castlegar",
+                "Status": "Active",
+                "Label": "IH"
+            },
+            {
+                "Pharm": "Emilie Lamoureux",
+                "Lic #": 16572.0,
+                "FTE": 1.0,
+                "Location": "Cranbrook",
+                "Status": "On leave",
+                "Label": "IH"
+            }
+        ]
+    },
+    {
+        "type": "Island Health Authority",
+        "pharmacies": [
+            {
+                "Pharm": "Susanne Moadebi",
+                "Lic #": 6885.0,
+                "FTE": 1.0,
+                "Location": "Victoria",
+                "Status": "Active",
+                "Label": "VIHA"
+            },
+            {
+                "Pharm": "Leah Ferreira",
+                "Lic #": 8057.0,
+                "FTE": 1.0,
+                "Location": "Langford",
+                "Status": "Active",
+                "Label": "VIHA"
+            },
+            {
+                "Pharm": "Shaun Baird",
+                "Lic #": 10983.0,
+                "FTE": 1.0,
+                "Location": "Lake Cowichan",
+                "Status": "Active",
+                "Label": "VIHA"
+            },
+            {
+                "Pharm": "Nicole McKenzie",
+                "Lic #": 11149.0,
+                "FTE": 1.0,
+                "Location": "Victoria",
+                "Status": "Active",
+                "Label": "VIHA"
+            },
+            {
+                "Pharm": "Sadie Quintal ",
+                "Lic #": 11229.0,
+                "FTE": 1.0,
+                "Location": "Comox ",
+                "Status": "Active",
+                "Label": "VIHA"
+            },
+            {
+                "Pharm": "Juljana Dakhlallah",
+                "Lic #": 12054.0,
+                "FTE": 1.0,
+                "Location": "Nanaimo",
+                "Status": "Active",
+                "Label": "VIHA"
+            },
+            {
+                "Pharm": "Sabina Choi",
+                "Lic #": 14600.0,
+                "FTE": 1.0,
+                "Location": "Victoria",
+                "Status": "Active",
+                "Label": "VIHA"
+            },
+            {
+                "Pharm": "Bradley Hernden",
+                "Lic #": 14942.0,
+                "FTE": 1.0,
+                "Location": "Nanaimo",
+                "Status": "Active",
+                "Label": "VIHA"
+            },
+            {
+                "Pharm": "Jason Alessio",
+                "Lic #": 14995.0,
+                "FTE": 1.0,
+                "Location": "Campbell River",
+                "Status": "Active",
+                "Label": "VIHA"
+            },
+            {
+                "Pharm": "Greg McGinnis",
+                "Lic #": 16122.0,
+                "FTE": 1.0,
+                "Location": "Victoria ",
+                "Status": "Active",
+                "Label": "VIHA"
+            },
+            {
+                "Pharm": "Corey Jeffries",
+                "Lic #": 17228.0,
+                "FTE": 1.0,
+                "Location": "Parksville",
+                "Status": "Active",
+                "Label": "VIHA"
+            },
+            {
+                "Pharm": "Antony Gagnon",
+                "Lic #": 17304.0,
+                "FTE": 1.0,
+                "Location": "Saanich",
+                "Status": "Active",
+                "Label": "VIHA"
+            },
+            {
+                "Pharm": "Taylor Setterfield",
+                "Lic #": 17822.0,
+                "FTE": 1.0,
+                "Location": "Port Alberni",
+                "Status": "Active",
+                "Label": "VIHA"
+            }
+        ]
+    },
+    {
+        "type": "Northern Health Authority",
+        "pharmacies": [
+            {
+                "Pharm": "Emma Kim",
+                "Lic #": 14461.0,
+                "FTE": 1.0,
+                "Location": "Prince George",
+                "Status": "On leave",
+                "Label": "NH"
+            },
+            {
+                "Pharm": "Michael Matula",
+                "Lic #": 15152.0,
+                "FTE": 1.0,
+                "Location": "Quesnel",
+                "Status": "Active",
+                "Label": "NH"
+            },
+            {
+                "Pharm": "Laura Fyten ",
+                "Lic #": 15817.0,
+                "FTE": 1.0,
+                "Location": "Smithers",
+                "Status": "Active",
+                "Label": "NH"
+            },
+            {
+                "Pharm": "Tara Luk",
+                "Lic #": 17415.0,
+                "FTE": 1.0,
+                "Location": "Fort St. John",
+                "Status": "Active",
+                "Label": "NH"
+            }
+        ]
+    },
+    {
+        "type": "Vancouver Coastal Health Authority",
+        "pharmacies": [
+            {
+                "Pharm": "Melanie Hempel",
+                "Lic #": 6145.0,
+                "FTE": 1.0,
+                "Location": "Vancouver",
+                "Status": "Active",
+                "Label": "VCH"
+            },
+            {
+                "Pharm": "Ruby Sangha",
+                "Lic #": 7782.0,
+                "FTE": 1.0,
+                "Location": "Vancouver",
+                "Status": "Active",
+                "Label": "VCH"
+            },
+            {
+                "Pharm": "Lindsay Zakkour",
+                "Lic #": 8290.0,
+                "FTE": 1.0,
+                "Location": "Powell River",
+                "Status": "Active",
+                "Label": "VCH"
+            },
+            {
+                "Pharm": "Amneet Aulakh",
+                "Lic #": 8291.0,
+                "FTE": 1.0,
+                "Location": "Vancouver",
+                "Status": "Active",
+                "Label": "VCH"
+            },
+            {
+                "Pharm": "Sanjeev Bains",
+                "Lic #": 8526.0,
+                "FTE": 1.0,
+                "Location": "North Vancouver",
+                "Status": "Active",
+                "Label": "VCH"
+            },
+            {
+                "Pharm": "Ramin Pournaghibi",
+                "Lic #": 8723.0,
+                "FTE": 1.0,
+                "Location": "North Vancouver",
+                "Status": "Active",
+                "Label": "VCH"
+            },
+            {
+                "Pharm": "Mildred Tang",
+                "Lic #": 8893.0,
+                "FTE": 1.0,
+                "Location": "Vancouver",
+                "Status": "Active",
+                "Label": "VCH"
+            },
+            {
+                "Pharm": "Donna Chui",
+                "Lic #": 10227.0,
+                "FTE": 1.0,
+                "Location": "Richmond",
+                "Status": "Active",
+                "Label": "VCH"
+            },
+            {
+                "Pharm": "Will Shum",
+                "Lic #": 10436.0,
+                "FTE": 1.0,
+                "Location": "Richmond",
+                "Status": "Active",
+                "Label": "VCH"
+            },
+            {
+                "Pharm": "Sandy Lu",
+                "Lic #": 11910.0,
+                "FTE": 1.0,
+                "Location": "Vancouver",
+                "Status": "Active",
+                "Label": "VCH"
+            },
+            {
+                "Pharm": "Eric Kosiuk",
+                "Lic #": 12712.0,
+                "FTE": 1.0,
+                "Location": "Gibsons",
+                "Status": "Active",
+                "Label": "VCH"
+            },
+            {
+                "Pharm": "Vicky O'Dwyer",
+                "Lic #": 15263.0,
+                "FTE": 1.0,
+                "Location": "Richmond",
+                "Status": "Active",
+                "Label": "VCH"
+            },
+            {
+                "Pharm": "Charlotte Bohmert",
+                "Lic #": 16551.0,
+                "FTE": 1.0,
+                "Location": "Vancouver",
+                "Status": "Active",
+                "Label": "VCH"
+            },
+            {
+                "Pharm": "Jessica Loucks",
+                "Lic #": 16577.0,
+                "FTE": 1.0,
+                "Location": "North Vancouver",
+                "Status": "Active",
+                "Label": "VCH"
+            },
+            {
+                "Pharm": "Lily Lin",
+                "Lic #": 16732.0,
+                "FTE": 1.0,
+                "Location": NaN,
+                "Status": "Inactive",
+                "Label": "VCH"
+            }
+        ]
+    }
+]
